@@ -1,1 +1,3 @@
-djfkejfejf
+class User:
+pass
+
